@@ -6,7 +6,6 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
         <h1>I am a headline made with HTML</h1>
         <p>
           And I am a simple text paragraph. The color of this text is styled
