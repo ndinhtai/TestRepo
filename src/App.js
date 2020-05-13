@@ -9,14 +9,6 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <h1>I am a headline made with HTML</h1>
 <p>And I am a simple text paragraph. The color of this text is styled with CSS. Click the button below to remove me through the power JavaScript.</p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
       </header>
     </div>
   );
