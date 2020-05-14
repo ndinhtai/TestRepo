@@ -7,6 +7,7 @@ function App() {
     <div className="App">
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
+<<<<<<< HEAD
         <h1>I am a headline made with HTML</h1>
         <p>
           And I am a simple text paragraph. The color of this text is styled
@@ -30,6 +31,11 @@ function App() {
           could defer child. An lose at quit to life do dull{" "}
         </p>
         <button>Hide the text above</button>
+=======
+        <p>
+          Edit <code>src/App.js</code> and save to reload.
+        </p>
+>>>>>>> 61ac94582aa32ee2cd9b604c04e7bf6d281fa9da
         <a
           className="App-link"
           href="https://reactjs.org"
